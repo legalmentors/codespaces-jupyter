@@ -1,0 +1,6 @@
+//npm.pkg.github.com/:_authToken=LEGALMENTOR
+$ npm login --scope=@LEGALMENTORS --auth-type=legacy --registry=https://npm.pkg.github.com
+
+> Username: LEGALMENTORS
+> Password: LEGALMENTOR
+@LEGALMENTORS:registry=https://npm.pkg.github.com
